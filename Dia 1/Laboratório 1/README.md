@@ -18,14 +18,11 @@ Cenário:
 </p>
 
 <p>
- O canal de comunicação da empresa com os cliente é um sistema web e dois aplicativos, um para a plataforma Android e outro IOS.
+ Os canais de comunicação da empresa com os cliente são os seguintes: Um sistema web, um aplicativo para a plataforma Android e outro para IOS.
 </p>
 
 <p>
- A equipe de desenvolvimento será composta por 3 desenvolvedores, que trabalham de segunda a sabádo.
+ Todas as demandas da Share Price S.A são originadas a partir de um sistema de chamados, portanto, é preciso criar um campo personalizado para manter o número de referência.  
 </p>
 
-## Exercício 1
- 
-Objetivo: Criar o código fonte para listar o preço das ações.
 
