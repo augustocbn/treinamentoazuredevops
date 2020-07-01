@@ -8,7 +8,7 @@ O BKG é uma instuação bancária sediada do sul do Brasil. Você foi contratad
 
 <li> Abrir uma conta bancária (Corrente ou Poupança); 
 <li> Saque, depósito
-<li> Realizar operações de TED, DOC e Transferência entre contas da mesma instituição (OK); 
+<li> Realizar operações de TED, DOC e Transferência entre contas da mesma instituição; 
 <li> Possibilitar operações de obtenção de saldo e extrato (máximo de 3 meses); 
 <li> Vincular cesta de serviços as contas; 
 
