@@ -25,7 +25,7 @@ Algumas regras, a considerar:
 
 <p>A empresa tem como objetivo disponibilizar esses serviços em seu aplicativo de cliente e na sua plataforma web. A equipe de marketing já iniciou as campanhas de divulgação.</p>
 
-<p>O trabalho será desenvolvido por uma única equipe,contudo, é de extrema importância organizar a gestão das atividades, de modo que, seja possível construir visões de acompanhameno específicas por plataforma (web e mobile).</p>
+<p>O trabalho será desenvolvido por uma única equipe, contudo, é de extrema importância organizar a gestão das atividades, de modo que, seja possível construir visões de acompanhameno específicas por plataforma (web e mobile).</p>
 
 <p>
 Todas as atividades do projeto precisam estar associadas ao gestor responsável pela área demandante.  
