@@ -14,12 +14,14 @@ O BKG é uma instuação bancária do sul do Brasil. Você foi contratado para d
 
 Algumas regras, a considerar:
 
-<li> As operações de TED e DOC podem ser realizadas até as 17:00 e somente em dias úteis; *******
-<li> O valor limite para a operação de DOC é de R$ 5.000,00; *******
-<li> O valor mínimo para as operações de DOC e TED é de R$ 299,00; *******
-<li> O valor da cesta de serviços deve ser debitado da conta do cliente no aniversário da mesma; *****OK
-<li> A conta poupança deve ser creditada em 1% no aniversário da mesma; *******
-<li> O saldo da conta corrente deve considerar o limite do cheque especial, criado no momento da abertura da conta; OK
+<ul>
+<li> As operações de TED e DOC podem ser realizadas até as 17:00 e somente em dias úteis; 
+<li> O valor limite para a operação de DOC é de R$ 5.000,00; 
+<li> O valor mínimo para as operações de DOC e TED é de R$ 299,00; 
+<li> O valor da cesta de serviços deve ser debitado da conta do cliente no aniversário da mesma; 
+<li> A conta poupança deve ser creditada em 1% no aniversário da mesma; 
+<li> O saldo da conta corrente deve considerar o limite do cheque especial, criado no momento da abertura da conta;
+</ul>
 
 <p>A empresa tem como objetivo disponibilizar esses serviços em seu aplicativo de cliente e na sua plataforma web. A equipe de marketing já iniciou as campanhas de divulgação.</p>
 
