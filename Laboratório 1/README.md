@@ -61,6 +61,7 @@ Objetivo: Criar uma sprint de trabalho considerando os requisitos a seguir:
     <li> A sprint terá por objetivo possibilitar aos clientes do BKG realizarem consultas as suas posições financeiras.
     <li> A equipe de desenvolvimento trabalha de segunda a sábado, sendo o trabalho dividido em 6 horas de desenvolvimento e 2 horas de testes.
     <li> O dia 15/07/2020 será feriado na cidade onde a equipe de desenvolvimento atua.
+    <li> Crie as tarefas e registre estimativas para elas.
 </ul>
 
 ## Exercício 7
@@ -73,6 +74,7 @@ Objetivo: Criar uma sprint de trabalho considerando os requisitos a seguir:
     <li> Copiar o capacity configurado para a equipe na primeira sprint.
     <li> Incluir um registro de bug, relatando sobre prolemas na obtenção do saldo.
     <li> Incluir um registro de bug, relatando falha no arredondamento dos valores na obtenção do extrato completo.
+    <li> Crie as tarefas e registre estimativas para elas.
 </ul>
 
 ## Exercício 8
