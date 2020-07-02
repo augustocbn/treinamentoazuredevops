@@ -4,7 +4,7 @@ Tempo estimado: 60 minutos
 
 Cenário: 
 
-O BKG é uma instuação bancária sediada do sul do Brasil. Você foi contratado para desenvolver uma solução digital que possibilite os clientes da organização realizarem as seguintes operações financeiras:
+O BKG é uma instituição bancária sediada do sul do Brasil. Você foi contratado para desenvolver uma solução digital que possibilite os clientes da organização realizarem as seguintes operações financeiras:
 
 <li> Abrir uma conta bancária (Corrente ou Poupança); 
 <li> Realizar operações de TED, DOC e Transferência entre contas da mesma instituição; 
