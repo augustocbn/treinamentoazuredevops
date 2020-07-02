@@ -26,7 +26,7 @@ Algumas regras, a considerar:
 
 <p>O trabalho será desenvolvido por uma única equipe, contudo, é de extrema importância organizar a gestão das atividades, de modo que, seja possível construir visões de acompanhameno específicas por plataforma (web e mobile).</p>
 
-<p>O tempo empenhado em reuniões deve ser registrado em um item de trabalho específico e vinculado a um PBI</p>
+<p>O tempo empenhado em reuniões deve ser registrado em um item de trabalho específico e vinculado a um PBI.</p>
 
 <p>
 Todas as atividades do projeto precisam estar associadas ao gestor responsável pela área demandante.  
